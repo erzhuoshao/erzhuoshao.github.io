@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Erzhuo Shao"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Erzhuo Shao"
+description              : &description "Data Mining & Data Science"
 url                      : https://erzhuoshao.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shaoerzhuo/erzhuoshao.github.io"
+repository               : "erzhuoshao/erzhuoshao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,7 +78,7 @@ analytics:
     tracking_id          :
 
 
-# Site Au![image.png](attachment:image.png)thor
+# Site Author
 author:
   name             : "Erzhuo Shao"
   avatar           : "profile.png"
@@ -227,7 +227,8 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
+#http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
