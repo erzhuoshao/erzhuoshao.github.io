@@ -1,7 +1,13 @@
 ---
+​---
 permalink: /
-title: 'Erzhuo Shao's Personal Homepage'
+title: "Erzhuo Shao's Personal Homepage"
+excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+​---
 ---
 
 Welcome!
