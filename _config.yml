@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Erzhuo Shao (邵尔卓)"
+title                    : "Erzhuo Shao"
 title_separator          : "-"
 name                     : &name "Erzhuo Shao"
 description              : &description "Data Mining & Data Science"
