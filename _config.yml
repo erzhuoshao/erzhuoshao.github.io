@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Erzhuo Shao (邵尔卓)"
   avatar           : "profile.png"
-  bio              : "Data Mining & Data Science"
+  bio              : "Data Mining, Data Science, Machine Learning"
   location         : "Tsinghua University, Beijing"
   googlescholar    : "https://scholar.google.com/citations?user=bdVSqj8AAAAJ"
   email            : "shaoerzhuo@gmail.com"
-  github           : "shaoerzhuo"
+  github           : "erzhuoshao"
 
 
 # Reading Files
