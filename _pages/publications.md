@@ -49,20 +49,3 @@ author_profile: true
   Z. Pardos, **Erzhuo Shao**
 
   *Submitted to TKDE*
-*Submitted to CIKM 2021*
-
-
-
-#### **Interior Individual Trajectory Simulation with Population Distribution Constraint**
-
-**Erzhuo Shao**, Z. Han, Y. Li.
-
-*Submitted to TIST*
-
-
-
-#### Sequential Basket Recommendation with Future Reference Items
-
-Z. Pardos, **Erzhuo Shao**
-
-*Submitted to TKDE*
