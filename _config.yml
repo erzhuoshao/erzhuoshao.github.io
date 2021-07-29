@@ -70,7 +70,7 @@ analytics:
 # Site Author
 author:
   name             : "Erzhuo Shao"
-  avatar           : "erzhuoshao.png"
+  avatar           : "images/erzhuoshao.png"
   bio              : "Data Mining & Data Science"
   location         : "Tsinghua University"
   googlescholar    : "https://scholar.google.com/citations?user=bdVSqj8AAAAJ"
