@@ -10,7 +10,7 @@ author_profile: true
 
 - ### Degree Planning with PLAN-BERT: Multi-Semester Recommendation Using Future Courses of Interest
 
-  **Erzhuo Shao***, S. Guo, Z. Pardos
+  **Erzhuo Shao**, S. Guo, Z. Pardos
 
   [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17751) [[code]](https://github.com/CAHLR/plan-bert-aaai)
 
