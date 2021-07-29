@@ -8,7 +8,7 @@ author_profile: true
 
 ## Published
 
-- ## Degree Planning with PLAN-BERT: Multi-Semester Recommendation Using Future Courses of Interest
+- ### Degree Planning with PLAN-BERT: Multi-Semester Recommendation Using Future Courses of Interest
 
   **Erzhuo Shao***, S. Guo, Z. Pardos
 
@@ -18,7 +18,7 @@ author_profile: true
 
 
 
-- ## DeepFlowGen: Intention-aware Fine Grained Crowd Flow Generation via Deep Neural Networks
+- ### DeepFlowGen: Intention-aware Fine Grained Crowd Flow Generation via Deep Neural Networks
 
   **Erzhuo Shao**, H. Wang, J. Feng, T. Xia, H. Yang, L. Geng, D. Jin, Y. Li.
 
@@ -28,7 +28,7 @@ author_profile: true
 
 ## Under Review
 
-- ## One-shot Transfer Learning for Population Mapping
+- ### One-shot Transfer Learning for Population Mapping
 
   **Erzhuo Shao***, J. Feng*, T. Xia, Y. Li.
 
@@ -36,7 +36,7 @@ author_profile: true
 
 
 
-- ## Interior Individual Trajectory Simulation with Population Distribution Constraint
+- ### Interior Individual Trajectory Simulation with Population Distribution Constraint
 
   **Erzhuo Shao**, Z. Han, Y. Li.
 
@@ -44,7 +44,7 @@ author_profile: true
 
   
 
-- ## Sequential Basket Recommendation with Future Reference Items
+- ### Sequential Basket Recommendation with Future Reference Items
 
   Z. Pardos, **Erzhuo Shao**
 
