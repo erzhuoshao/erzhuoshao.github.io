@@ -1,9 +1,8 @@
 ---
 permalink: /
+title: 'Erzhuo Shao's Personal Homepage'
 author_profile: true
 ---
-
-## Erzhuo Shao's Personal Homepage
 
 Welcome!
 
