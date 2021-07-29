@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 ---
-Download [pdf](https://drive.google.com/drive/folders/1YCjCCNgnOVyAxDq9seNqok140ZnhbZpD) here.
+Download [pdf](https://drive.google.com/file/d/1pQegIFNcLMJEqwatT_RPdf6IFgNxQ4SO/view?usp=sharing) here.
