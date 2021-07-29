@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+# Publications
 
 - ## Degree Planning with PLAN-BERT: Multi-Semester Recommendation Using Future Courses of Interest
 
