@@ -5,6 +5,14 @@ title: 'Publications'
 author_profile: true
 ---
 
+- ## One-shot Transfer Learning for Population Mapping
+
+  **Erzhuo Shao***, J. Feng*, T. Xia, Y. Li.
+
+  *The Conference on Information and Knowledge Management (CIKM 2021)*
+  
+
+
 - ## Degree Planning with PLAN-BERT: Multi-Semester Recommendation Using Future Courses of Interest
 
   **Erzhuo Shao**, S. Guo, Z. Pardos
@@ -24,14 +32,6 @@ author_profile: true
 
 
 # Under Review
-
-- ## One-shot Transfer Learning for Population Mapping
-
-  **Erzhuo Shao***, J. Feng*, T. Xia, Y. Li.
-
-  *Submitted to CIKM 2021*
-
-
 
 - ## Interior Individual Trajectory Simulation with Population Distribution Constraint
 
