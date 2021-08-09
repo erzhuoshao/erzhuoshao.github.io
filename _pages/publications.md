@@ -10,8 +10,8 @@ author_profile: true
   **Erzhuo Shao***, J. Feng*, T. Xia, Y. Li.
 
   *The Conference on Information and Knowledge Management (CIKM 2021)*
-
   
+
 
 - ## Degree Planning with PLAN-BERT: Multi-Semester Recommendation Using Future Courses of Interest
 
@@ -28,8 +28,6 @@ author_profile: true
   **Erzhuo Shao**, H. Wang, J. Feng, T. Xia, H. Yang, L. Geng, D. Jin, Y. Li.
 
   [[paper]](https://ieeexplore.ieee.org/document/9416248)
-  
-  *IEEE Transactions on Knowledge and Data Engineering (TKDE)*
 
 
 
