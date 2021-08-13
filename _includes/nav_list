@@ -39,7 +39,7 @@
             {% if child.url contains 'CV' %}
               <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}" target="_blank">{{ child.title }}</a></li>
               {% else %}
-              <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}">{{ child.title }}</a></li>
+              <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}" target="_blank">{{ child.title }}</a></li>
             {% endif %}
 
           {% endfor %}
