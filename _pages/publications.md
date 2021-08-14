@@ -7,7 +7,7 @@ author_profile: true
 
 - ## One-shot Transfer Learning for Population Mapping
 
-  **Erzhuo Shao***, J. Feng*, T. Xia, Y. Li.
+  **Erzhuo Shao\***, J. Feng\*, T. Xia, Y. Li.
 
   *The Conference on Information and Knowledge Management (CIKM 2021)*
   
