@@ -30,7 +30,7 @@ author_profile: true
 
   **Erzhuo Shao**, H. Wang, J. Feng, T. Xia, H. Yang, L. Geng, D. Jin, Y. Li.
 
-  [[paper]](https://ieeexplore.ieee.org/document/9416248)
+  [[paper]](https://ieeexplore.ieee.org/document/9416248) [[code]](https://github.com/erzhuoshao/DeepFlowGen)
   
   *IEEE Transactions on Knowledge and Data Engineering (TKDE)*
 
