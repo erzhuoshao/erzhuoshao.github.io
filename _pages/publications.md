@@ -18,11 +18,12 @@ author_profile: true
 
 - ## Degree Planning with PLAN-BERT: Multi-Semester Recommendation Using Future Courses of Interest
 
-  **Erzhuo Shao**, S. Guo, Z. Pardos
-
-  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17751) [[code]](https://github.com/CAHLR/plan-bert-aaai)
-
+  **Erzhuo Shao**, S. Guo, Z. Pardos.
   *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)*
+  
+  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17751) [[code]](https://github.com/CAHLR/plan-bert-aaai)
+  
+  
 
 
 
@@ -30,9 +31,11 @@ author_profile: true
 
   **Erzhuo Shao**, H. Wang, J. Feng, T. Xia, H. Yang, L. Geng, D. Jin, Y. Li.
 
+  *IEEE Transactions on Knowledge and Data Engineering (TKDE)*
+  
   [[paper]](https://ieeexplore.ieee.org/document/9416248) [[code]](https://github.com/erzhuoshao/DeepFlowGen)
   
-  *IEEE Transactions on Knowledge and Data Engineering (TKDE)*
+  
 
 
 
@@ -48,6 +51,6 @@ author_profile: true
 
 - ## Sequential Basket Recommendation with Future Reference Items
 
-  Z. Pardos, **Erzhuo Shao**
+  Z. Pardos, **Erzhuo Shao.**
 
   *Submitted to TKDE*
