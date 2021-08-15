@@ -22,7 +22,7 @@ author_profile: true
 
   *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2021)*
 
-  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17751) [[code]](https://github.com/CAHLR/plan-bert-aaai)
+  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17751) [[code]](https://github.com/CAHLR/plan-bert-aaai) [[package]](https://pypi.org/project/PLANBERT/)
   
   
 
