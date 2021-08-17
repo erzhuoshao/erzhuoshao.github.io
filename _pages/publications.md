@@ -11,7 +11,7 @@ author_profile: true
 
   *The Conference on Information and Knowledge Management (CIKM 2021)*
   
-  [[code]](https://github.com/erzhuoshao/PSRNet-CIKM)
+  [[paper]](https://arxiv.org/abs/2108.06228) [[code]](https://github.com/erzhuoshao/PSRNet-CIKM)
   
   
 
