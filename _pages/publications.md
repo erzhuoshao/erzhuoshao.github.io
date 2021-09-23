@@ -44,6 +44,16 @@ author_profile: true
 
 # Under Review
 
+
+
+- ## Epidemic Control under Exploration & Return Dichotomy
+
+  **Erzhuo Shao**, F. Xu, Y. Li.
+
+  [[Slide]](https://arxiv.org/abs/2108.06228)
+
+
+
 - ## Interior Individual Trajectory Simulation with Population Distribution Constraint
 
   **Erzhuo Shao**, Z. Han, Y. Li.
