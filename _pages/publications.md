@@ -50,7 +50,7 @@ author_profile: true
 
   **Erzhuo Shao**, F. Xu, Y. Li.
 
-  [[Slide]](https://erzhuoshao.github.io/files/exploration.pdf)
+  [[slide]](https://erzhuoshao.github.io/files/exploration.pdf)
 
 
 
