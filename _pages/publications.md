@@ -46,7 +46,7 @@ author_profile: true
 
 
 
-- ## Epidemic Control under Exploration & Return Dichotomy
+- ## Epidemic Control under Exploration & Return Movement Dichotomy
 
   **Erzhuo Shao**, F. Xu, Y. Li.
 
