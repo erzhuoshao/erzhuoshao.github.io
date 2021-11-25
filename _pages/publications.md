@@ -1,9 +1,10 @@
 ---
 layout: archive
 permalink: /publications/
-title: Publication
 author_profile: true
 ---
+
+## Publication
 
 ### One-shot Transfer Learning for Population Mapping
 
@@ -43,7 +44,7 @@ Y. Wang\*, Y. Min\*, **Erzhuo Shao**, J. Wu
 
 
 
-# In Submission
+## In Submission
 
 ### Epidemic Control under Exploration & Return Movement Dichotomy
 
