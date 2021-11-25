@@ -1,13 +1,12 @@
 ---
 layout: archive
 permalink: /publications/
-title: 'Publications'
 author_profile: true
 ---
 
 ## Publications
 
-#### One-shot Transfer Learning for Population Mapping
+### One-shot Transfer Learning for Population Mapping
 
 **Erzhuo Shao\***, J. Feng\*, T. Xia, Y. Li.
 
@@ -17,7 +16,7 @@ author_profile: true
 
 
 
-#### Degree Planning with PLAN-BERT: Multi-Semester Recommendation Using Future Courses of Interest
+### Degree Planning with PLAN-BERT: Multi-Semester Recommendation Using Future Courses of Interest
 
 **Erzhuo Shao**, S. Guo, Z. Pardos.
 
@@ -27,7 +26,7 @@ author_profile: true
 
 
 
-#### DeepFlowGen: Intention-aware Fine Grained Crowd Flow Generation via Deep Neural Networks
+### DeepFlowGen: Intention-aware Fine Grained Crowd Flow Generation via Deep Neural Networks
 
 **Erzhuo Shao**, H. Wang, J. Feng, T. Xia, H. Yang, L. Geng, D. Jin, Y. Li.
 
@@ -37,7 +36,7 @@ author_profile: true
 
 
 
-#### Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations
+### Molecular Graph Contrastive Learning with Parameterized Explainable Augmentations
 
 Y. Wang\*, Y. Min\*, **Erzhuo Shao**, J. Wu
 
@@ -45,9 +44,9 @@ Y. Wang\*, Y. Min\*, **Erzhuo Shao**, J. Wu
 
 
 
-## Working Paper
+## In Submission
 
-#### Epidemic Control under Exploration & Return Movement Dichotomy
+### Epidemic Control under Exploration & Return Movement Dichotomy
 
 **Erzhuo Shao**, F. Xu, Y. Li.
 
@@ -55,7 +54,7 @@ Y. Wang\*, Y. Min\*, **Erzhuo Shao**, J. Wu
 
 
 
-#### Interior Individual Trajectory Simulation with Population Distribution Constraint
+### Interior Individual Trajectory Simulation with Population Distribution Constraint
 
 **Erzhuo Shao**, Z. Han, Y. Li.
 
@@ -63,7 +62,7 @@ Y. Wang\*, Y. Min\*, **Erzhuo Shao**, J. Wu
 
 
 
-#### Sequential Basket Recommendation with Future Reference Items
+### Sequential Basket Recommendation with Future Reference Items
 
 Z. Pardos, **Erzhuo Shao**.
 
@@ -71,7 +70,7 @@ Z. Pardos, **Erzhuo Shao**.
 
 
 
-#### Disease Simulation in Airport Scenario Based on Individual Mobility Model
+### Disease Simulation in Airport Scenario Based on Individual Mobility Model
 
 Z. Han, S. Ma, C. Gao, **Erzhuo Shao**, Y. Xie, Y. Zhang, L. Geng, Y. Li.
 
