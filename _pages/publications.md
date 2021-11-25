@@ -1,16 +1,17 @@
 ---
 layout: archive
 permalink: /publications/
+title: Publication
 author_profile: true
 ---
 
 ### One-shot Transfer Learning for Population Mapping
 
-### **Erzhuo Shao\***, J. Feng\*, T. Xia, Y. Li.
+**Erzhuo Shao\***, J. Feng\*, T. Xia, Y. Li.
 
-### *The Conference on Information and Knowledge Management (CIKM 2021)*
+*The Conference on Information and Knowledge Management (CIKM 2021)*
 
-### [[paper]](https://arxiv.org/abs/2108.06228) [[code]](https://github.com/erzhuoshao/PSRNet-CIKM)
+[[paper]](https://arxiv.org/abs/2108.06228) [[code]](https://github.com/erzhuoshao/PSRNet-CIKM)
 
 
 
