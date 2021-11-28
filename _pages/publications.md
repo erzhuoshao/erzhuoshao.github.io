@@ -5,7 +5,7 @@ Title: Publication
 author_profile: true
 ---
 
-## Publications
+## Publication
 
 ### One-shot Transfer Learning for Population Mapping
 
