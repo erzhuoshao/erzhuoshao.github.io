@@ -5,6 +5,8 @@ Title: Publication
 author_profile: true
 ---
 
+## Publications
+
 ### One-shot Transfer Learning for Population Mapping
 
 **Erzhuo Shao\***, J. Feng\*, T. Xia, Y. Li.
