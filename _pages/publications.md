@@ -1,11 +1,9 @@
 ---
 layout: archive
 permalink: /publications/
-Title: Publication
+title: Publications
 author_profile: true
 ---
-
-## Publication
 
 ### One-shot Transfer Learning for Population Mapping
 
